@@ -16,5 +16,7 @@ git add .
 # Commit with the provided message
 git commit -m "$commit_message"
 
+git push
+
 # Confirm success
 echo "Committed with message: '$commit_message'"
